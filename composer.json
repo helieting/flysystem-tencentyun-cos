@@ -1,5 +1,5 @@
 {
-	"name": "helieting/flysystem-tencentyun-os",
+	"name": "helieting/flysystem-tencentyun-cos",
 	"description": "flysystem adapter for Qcloud",
 	"license": "MIT",
 	"keywords": ["flysystem","qcloud","laravel"],
