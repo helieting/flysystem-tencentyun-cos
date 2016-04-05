@@ -2,6 +2,7 @@
 	"name": "helieting/flysystem-tencentyun-os",
 	"description": "flysystem adapter for Qcloud",
 	"license": "MIT",
+	"keywords": ["flysystem","qcloud"],
 	"require": {
 		"tencentyun/cos-php-sdk": "~2.0.0",
 		"league/flysystem": "~1.0.0"
