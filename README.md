@@ -17,3 +17,6 @@ $storage = new Filesystem(new QcloudAdapter($config));
 $storage->getMetadata('xxx.png');
 ```
 
+OR
+
+laravel内使用
