@@ -1,0 +1,20 @@
+{
+	"name": "helieting/flysystem-tencentyun-os",
+	"description": "flysystem adapter for Qcloud",
+	"license": "MIT",
+	"require": {
+		"tencentyun/cos-php-sdk": "~2.0.0",
+		"league/flysystem": "~1.0.0"
+	},
+	"autoload": {
+		"psr-4": {
+			"Helieting\\Flysystem\\Qcloud\\": "src/"
+		}
+	},
+	"authors": [
+		{
+			"name": "helieting",
+			"email": "helieting@gmail.com"
+		}
+	]
+}
